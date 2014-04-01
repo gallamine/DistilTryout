@@ -1,0 +1,14 @@
+Distil Notes:
+
+
+1. Uppercase bucketname is an issue.
+2. Interarchy doesn't work with uppercase?
+3. 3Hub does work.
+4. 
+
+2BC2D8AD-7AD0-3CAD-9453-B0335F409701 | 1817897565 | 2111 | ... | www.whitepages.com | 21 | US | 0 | 9
+
+
+5. 
+Data downloaded from 1st day: 00004, 000014
+Data downloaded from 12/20 (DDOS): 000013, 000031
